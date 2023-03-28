@@ -1,5 +1,4 @@
-### Project-3 Documentation
-
+### MERN STACK IMPLEMENTATION
 ## Step 1
 
 *Download updates for ubuntu*
@@ -330,4 +329,4 @@
 
 `npm run dev`
 
-![Todo app](./images/npm%20run%20dev.jpg)
+![Todo app; ](./images/npm%20run%20dev.jpg)
